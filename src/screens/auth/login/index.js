@@ -71,7 +71,6 @@ const LoginScreen = props => {
                     orem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 </CustomText>
             </View>
-
             <View style={styles.footerView}>
                 <ScrollView showsVerticalScrollIndicator={false}>
                     <Spacer height={40} />
@@ -205,5 +204,4 @@ const LoginScreen = props => {
         </SafeAreaView>
     );
 };
-
 export default LoginScreen;
