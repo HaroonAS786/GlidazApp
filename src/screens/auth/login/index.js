@@ -200,7 +200,6 @@ const LoginScreen = props => {
                     </View>
                 </CustomModal>
             </View>
-
         </SafeAreaView>
     );
 };
