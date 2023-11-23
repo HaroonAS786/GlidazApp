@@ -1,0 +1,2 @@
+# GlidazApp
+Glidaz Mobile App
